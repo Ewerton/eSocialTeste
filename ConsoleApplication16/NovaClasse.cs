@@ -9,5 +9,6 @@ namespace ConsoleApplication16
     class NovaClasse
     {
         //Linha1
+        //Linha2
     }
 }
